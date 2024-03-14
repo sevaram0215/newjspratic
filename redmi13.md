@@ -38,26 +38,26 @@ These operators are fundamental for making decisions and controlling the flow of
 Q-3  write a program of add two numbers?
 Ans
        let a= 10
-           b=10
-           console.log(a+b)
+        let  b=10
+        console.log(a+b)
        
  Q-4  write a program of subtraction two numbers?
  ans    let a= 10
-            b=10
+        let    b=10
             console.log(a-b)
 
  Q-5  write a program of multiplication two numbers?
  ans-   let a= 10
-            b=10
+        let b=10
             console.log(a*b)
 
 Q-6   write a program of division two numbers?
 ans   let a=10
-        b=10
+      let b=10
         console.log(a/b)
 
 
 Q-7   write a program by using % odulus to chek reminder of two numbeers two numbers?
 ans    let a=22
-           b=10
-           console.log(a%b)  
+        let b=10
+        console.log(a%b)  
